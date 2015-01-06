@@ -3,8 +3,8 @@ SnakesAndLadders
 
 Major Java Program (Source code only available)
 
-Source Code
-------------
+Source Code and .exe file location
+----------------------------------
 The source code is found under the folder: src -> snakesandladders -> SnakesandLaddersGame.java
 
 To view .exe file, download SnakesAndLadders.zip -> Extract it -> Then run the .exe file
