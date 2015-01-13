@@ -1,7 +1,7 @@
 SnakesAndLadders
 ================
 
-Major Java Program (Source code only available)
+Major Java Program (Source code and .exe file available)
 
 Source Code and .exe file location
 ----------------------------------
