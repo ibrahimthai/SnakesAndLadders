@@ -16,4 +16,4 @@ https://java.com/en/download/
 Description
 ------------
 This was my first major program I created with Java. I edit the Snakes and Ladders menu background using Adobe Photoshop.
-This games allows you the play against either a 2nd player or a CPU.
+This game allows you the play against either a 2nd player or a CPU.
