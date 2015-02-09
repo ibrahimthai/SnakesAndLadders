@@ -16,4 +16,4 @@ https://java.com/en/download/
 Description
 ------------
 This was my first major program I created with Java. I edit the Snakes and Ladders menu background using Adobe Photoshop.
-This game allows you the play against either a 2nd player or a CPU. I completed this as my final project for Grade 11 Computer Science (ICS3U) and got 98% on it. I completed Grade 11 Computer Science from another school and got 95% final grade.
+This game allows you the play against either a 2nd player or a CPU. I completed Grade 11 Computer Science from another school and got 95% final grade.
